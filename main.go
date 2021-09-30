@@ -1,37 +1,3 @@
-```yaml
-# me.yaml
-name: Iacopo
-from: Italy
-based: Somewhere in the blockchain
-role: Full Stack Developer
-nick: Santiago
-languages:
-  - lang: Go
-    affinity: 90
-  - lang: PHP
-    affinity: 80
-  - lang: JS/TS
-    affinity: 75
-  - lang: CSS/HTML
-    affinity: 70
-databases:
-  - MariaDB
-  - MySQL
-  - SQLServer
-  - SQLite
-  - Redis
-miscs:
-  - Docker
-  - Kubernetes
-  - Linux
-hobbies:
-  - Videogames
-  - Good drinks
-  - Coding
-  - Repeat
-```
-
-```go
 package main
 
 import (
@@ -90,4 +56,3 @@ func main() {
 
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
-```
