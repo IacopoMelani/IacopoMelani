@@ -14,6 +14,8 @@ languages:
     affinity: 75
   - lang: CSS/HTML
     affinity: 70
+  - lang: Dart
+    affinity: WIP
 databases:
   - MariaDB
   - MySQL
