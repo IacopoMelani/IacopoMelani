@@ -18,7 +18,7 @@ languages:
     affinity: WIP
 databases:
   - MariaDB
-  - MySQL
+  - PostgreSQL
   - SQLServer
   - SQLite
   - Redis
