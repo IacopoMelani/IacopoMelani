@@ -2,33 +2,28 @@
 # me.yaml
 name: Iacopo
 from: Italy
-based: Somewhere in the blockchain
-role: Full Stack Developer
+based: Somewhere in the Cloud
+role: Backend Developer
 nick: Santiago
 languages:
   - lang: Go
     affinity: 90
   - lang: PHP
     affinity: 80
-  - lang: JS/TS
-    affinity: 75
-  - lang: CSS/HTML
-    affinity: 70
-  - lang: Dart
+  - lang: Rust
     affinity: WIP
 databases:
   - MariaDB
   - PostgreSQL
-  - SQLServer
-  - SQLite
   - Redis
 miscs:
   - Docker
   - Kubernetes
-  - Linux
+  - Terraform
+  - Nomad
 hobbies:
   - Videogames
-  - Good drinks
+  - Gin Tonic
   - Coding
   - Repeat
 ```
